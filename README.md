@@ -4,4 +4,4 @@
 
 **Notice:**
 
-This repository has been archived in favor of the same available in the monorepo at <https://github.com/freeCodeCamp/freeCodeCamp>
+This repository has been archived in favor of the same available in the monorepo at * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
